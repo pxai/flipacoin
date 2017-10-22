@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/SceneFlip.unity
+  isLoaded: 1
+  isActive: 1
